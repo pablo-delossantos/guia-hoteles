@@ -1,0 +1,31 @@
+.jumbotron{
+    background-color: yellow;
+    color: black;
+}
+
+.card-hotel{
+    flex: 1 250px; /*cuanto va a ser el ancho = flex-grow y flex-basis*/
+    padding: 10px 10px 10px 10px;
+    margin-top: 10px;
+    margin: 10px;
+    border: solid 1px #ccc;
+    border-radius: 10px;
+}
+
+.btn-reserva{
+    width: 100%;
+    background-color: yellowgreen;
+    border-color: greenyellow;
+}
+
+.btn-reserva:hover{
+    background-color: green;
+    border-color: forestgreen;
+}
+
+footer{
+    padding: 10px 10px 0 10px;
+    background-color: yellow;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
